@@ -1,0 +1,19 @@
+{
+  "title": "Mobile_Suit_Gundam_Rust_Horizon",
+  "description": "",
+  "artist": "Kenichi Terada",
+  "author": "Hiroyuki Yoshino",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx145713-SrceOsNtAuyr.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1680555138",
+      "groups": {
+        "": [
+          "https://imgur.com/a/XcFSArv"
+        ]
+      }
+    }
+  }
+}
